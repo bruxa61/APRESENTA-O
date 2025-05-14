@@ -2,9 +2,11 @@
 
 Um projeto de loja virtual com funcionalidades completas de um sistema de e-commerce, desenvolvido com foco em aprendizado e prática de desenvolvimento web.
 
+🔗 **Acesse aqui:** [bruxa61.github.io/portfolio](https://bruxa61.github.io/portfolio/)
+
 ---
 
-<img src="tinkerBell/img/Projeto_Tkinter.png" alt="Exemplo imagem">
+<img src="img/Capa.png" alt="Exemplo imagem">
 
 ---
 
