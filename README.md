@@ -2,7 +2,7 @@
 
 Um projeto de loja virtual com funcionalidades completas de um sistema de e-commerce, desenvolvido com foco em aprendizado e prática de desenvolvimento web.
 
-🔗 **Acesse aqui:** [bruxa61.github.io/portfolio](https://bruxa61.github.io/APRESENTA-O/)
+🔗 **Acesse aqui:** [bruxa61.github.io/APRESENTA-O](https://bruxa61.github.io/APRESENTA-O/)
 
 ---
 
